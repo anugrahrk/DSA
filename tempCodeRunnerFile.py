@@ -1,0 +1,1 @@
+print(student1.get_details())
