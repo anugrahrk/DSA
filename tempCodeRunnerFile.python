@@ -1,6 +1,8 @@
-def fact(x):
-    if x==0:
-        return 1
-    else:
-        return x*fact(x-1)
-fact(10)
+
+def f():
+    count=0
+    if count==4:
+        return
+    print(count)
+    count+=1
+    f()

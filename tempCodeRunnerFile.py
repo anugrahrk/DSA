@@ -1,1 +1,1 @@
-print(student1.get_details())
+count+=1
