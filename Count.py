@@ -1,8 +1,7 @@
-
 def f():
     count=0
     if count==4:
         return
     print(count)
     count+=1
-    f()
+f()
